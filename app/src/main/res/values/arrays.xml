@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options_array">
+    <item type="string" name="suite">suite</item>
+    <item type="string" name="double_bed">double bed</item>
+    <item type="string" name="single_bed">single bed</item>
+    </string-array>
+</resources>
